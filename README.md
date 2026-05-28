@@ -1,5 +1,7 @@
 # chat-support-agent
 
+LangGraph / Groq based AI Chat Support Agent CLI
+
 To install dependencies:
 
 ```bash
